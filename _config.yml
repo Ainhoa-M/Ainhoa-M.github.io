@@ -1,6 +1,6 @@
-title: Tu título genial
-author: Usuario GitHub
-email: tu-nombre@opendeusto.es
+title: Prueba
+author: Ainhoa Manchado
+email: 98ainhoam@opendeusto.es
 description: > # this means to ignore newlines until "baseurl:"
   Escribe una descripción estupenda para tu nuevo sitio aquí. Puedes editar esta línea
   en _config.yml. Aparecerá en los metadatos de cabecera de tu documento (para los 
@@ -11,3 +11,4 @@ twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o
 github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
 
 show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+theme: minima
