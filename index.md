@@ -1,3 +1,3 @@
 # Bienvenida a mi blog
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Esta es la prueba para el blog
