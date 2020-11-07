@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
 
-Esta es la prueba para el blog
+
+Soy Ainhoa Manchado y este es mi portafolio personal. 
