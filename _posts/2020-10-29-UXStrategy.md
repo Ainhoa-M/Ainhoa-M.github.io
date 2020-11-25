@@ -1,6 +1,6 @@
 ---
 title: "TU TÍTULO"
-date: 2020-11-04
+date: 2020-10-29
 ---
 # Defining the UX Strategy: Why, How, and What’s Next
 
