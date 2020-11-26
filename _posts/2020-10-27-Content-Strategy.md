@@ -3,3 +3,48 @@ title: "TU TÍTULO"
 date: 2020-10-27
 ---
 # Audit
+
+## LO MÁS IMPORTANTE 
+
+Derinir la audiencia ¿a quién no dirigimos?
+
+Mensaje →  Jerarquizarlos (los tres forman una cosa, objetivo):  
+* Primario 
+* Secundario 
+* Detalles 
+
+
+Temas →  Mapa de temas, visualizar fácilmente el contenido importante
+
+Propósito →  Depende del objetivo, informar, persuadir…
+
+Voz y Tono → Lenguaje, valores detrás de la voz, tono depende de la audiencia
+
+Fuente →  Contenido ¿de dónde viene? No todo es original.
+ 
+## ESTRUCTURA 
+Averiguar cómo se debe priorizar, organizar, formatear y dar formato al contenido
+desplegado
+
+Se debe decidir dónde quieres hacer tu contenido disponible →  ¿forma de plataforma? Canales, plataformas, formatos
+
+¿Qué quieres transmitir? Reflexionar. ¿Audiencia, mensaje…?
+
+Navegación y Nomenclatura 
+* La nomenclatura es la tarea de identificar qué etiquetas se asignarán a los diferentes componentes de un sitio web.
+* La navegación viene en muchos formatos diferentes
+* Sistema para organizar los datos de manera que sean fácil de localizar. Intuitivo con sentido.
+
+Links ¿Cómo van a aparecer?  Asegúrese de indicar dónde deben aparecer los enlaces, bajo qué circunstancias deben aparecer, cómo deben escribirse y cualquier llamada a la acción.
+
+Microcopia: Puede actuar como señales en un sitio web, para que pueda realizar un seguimiento de dónde se encuentra. →  beneficioso para la experiencia del usuario, te dice dónde te encuentras. Es al final un modo de prueba de usabilidad de tu web
+
+Metadata →  Los metadatos hacen que el contenido se pueda encontrar, sea portátil y adaptable a diferentes plataformas. Es parte crucial para los motores de búsqueda web ya que se usa para reconocer y categorizar contenido para sus resultados de búsqueda. también pueden manejar la organización y visualización de contenido, junto con enlaces entre el contenido. 
+
+Lo que está detrás, lo que hace que el contenido sea adaptable. Ayuda con el posicionamiento web.
+ 
+## HERRAMIENTAS 
+
+* Sitemaps
+* Wireframes
+* Page tables
