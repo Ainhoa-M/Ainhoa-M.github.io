@@ -1,5 +1,5 @@
 ---
-title: "TU TÍTULO"
+title: "Primera reunión de expertos"
 date: 2020-09-21
 ---
 # Git para usuarios de Dropbox (o Google Drive)
