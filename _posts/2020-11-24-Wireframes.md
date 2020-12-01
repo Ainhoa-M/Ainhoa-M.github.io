@@ -4,6 +4,7 @@ date: 2020-11-24
 ---
 
 ## Puntos importantes 
+
 Los *wireframes* parecen la página web. Son la forma visual y gráfica para representar la web y poder ver cómo quedaría
 * Puntos negativos: No se plasma la interactividad de los usuarios
 Hoy en día los wireframes son como plantillas

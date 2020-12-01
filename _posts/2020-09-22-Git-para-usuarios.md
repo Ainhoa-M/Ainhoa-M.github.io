@@ -3,7 +3,9 @@ title: "Git para usuarios de Dropbox (o Google Drive)"
 date: 2020-09-22
 ---
 
-Git es  parecido a Dropbox: coge los archivos de tu ordenador, los pone en la nube, y permite que otras personas trabajen sobre ellos. Permite que varias personas trabajen en el mismo archivo al mismo tiempo.  
+## Github
+
+Git es parecido a Dropbox: coge los archivos de tu ordenador, los pone en la nube, y permite que otras personas trabajen sobre ellos. Permite que varias personas trabajen en el mismo archivo al mismo tiempo.  
 Incluso si no tienes un equipo de personas, git sigue teniendo ventajas importantes. 
 
 Puede funcionar como una máquina del tiempo, permitiéndote volver a ver lo que hiciste la semana pasada, o incluso el año pasado, ayudarte a recuperar archivos que borraste, y llevar un registro del progreso a lo largo del tiempo además de ser genial para hacer copias de seguridad. 

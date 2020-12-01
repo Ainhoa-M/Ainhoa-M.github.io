@@ -3,6 +3,8 @@ title: "Defining the UX Strategy: Why, How, and What’s Next"
 date: 2020-10-06
 ---
 
+## UX Strategy
+
 No puede diseñar cómo una persona va a reaccionar ante un producto, qué equipaje trae consigo en un día determinado, sus prejuicios, **pero puede planificar lo que te gustaría que sucediera**. Puedes influir.
 
 Hacer eso requiere tomar las riendas desde la primera llamada telefónica y convertirse en una persona que lidera el proceso en lugar de uno que se dobla y se rompe y hace lo que los demás le piden. **Requiere hacer su investigación**. Y luego requiere **desarrollar una estrategia** (basada en toda la investigación).
