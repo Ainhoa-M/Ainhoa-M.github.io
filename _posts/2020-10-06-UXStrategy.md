@@ -1,8 +1,7 @@
 ---
-title: "Segunda reunión de expertos"
-date: 2020-10-29
+title: "Defining the UX Strategy: Why, How, and What’s Next"
+date: 2020-10-06
 ---
-# Defining the UX Strategy: Why, How, and What’s Next
 
 No puede diseñar cómo una persona va a reaccionar ante un producto, qué equipaje trae consigo en un día determinado, sus prejuicios, **pero puede planificar lo que te gustaría que sucediera**. Puedes influir.
 

@@ -1,8 +1,7 @@
 ---
-title: "Sexta reunión de expertos"
+title: "Chapter 7. Wireframes"
 date: 2020-11-24
 ---
-# Chapter 7. Wireframes
 
 ## Puntos importantes 
 Los *wireframes* parecen la página web. Son la forma visual y gráfica para representar la web y poder ver cómo quedaría
