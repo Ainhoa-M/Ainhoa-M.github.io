@@ -23,18 +23,18 @@ Esto le da tambien al equipo una visión clara de cómo es la web
 Proporciones que es lo que le gusta a la visión del ser humano. como colocar las cosas. 
 ver cómo comunicar las cosas, los colores, la tipografía, las áreas de la página web
 
-## LEVEL UP
+## Level Up
 
 Crear un wireframe significa diseñar piezas individuales y diseñar la página de la web para los componentes que irán en él. 
 
 Selecciona un estilo, un modelo de titular, subtítulo, algo simple.  es consistente con elementos. 
 
-## PRESENTAR LOS WIREFRAMES
+## Presentar los wireframes
 
 Discute la experiencia de usuario. Mira bien si la forma que le has dado a la web cumple con el objetivo que has marcado. mira si esta aproximación sigue los principios de diseño que has marcado.
 Marca todos los escenarios posibles. genera wireframes adicionales. 
 
-##CÓMO APLICAR EL WIREFRAME
+## Cómo aplicar el wireframe
 
 Los wireframes no pueden sostenerse por sí solas, y tampoco pueden todos los detalles, comportamientos y funcionamiento de la interfaz,  Utiliza markers.
 Describir brevemente el propósito y objetivo del wireframe ayuda a establecer el contexto.

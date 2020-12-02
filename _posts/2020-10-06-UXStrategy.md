@@ -27,7 +27,7 @@ Para hacer esto se emplea **el documento de estrategia de una página**.
     
     * En qué circunstancias se usará el producto. Más que centrarse en las condiciones específicas de cada tipo de persona, centrarse en la situación en su lugar.
     
-      *  Who
+      * Who
       * What
       * When
       * Where
