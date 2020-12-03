@@ -6,6 +6,7 @@ date: 2020-09-22
 ## La experiencia de los usuarios
 
 1. **HCI** (Interacción Persona-Ordenador) y Usabilidad
+
    * **El HCI** es el área de estudio centrada en el fenómeno de interacción entre usuarios y sistemas informáticos.
       * **Objetivo**: Proporcionar bases teóricas, metodológicas y prácticas para el diseño y evaluación de productos interactivos.
       * La HCI es interdisciplinar en su práctica y multidisciplinar en su origen. 
@@ -15,7 +16,9 @@ date: 2020-09-22
       * Se entiende como una metodología de diseño y evaluación.
       * **Ingeniería de la Usabilidad** (UE, Usability Engineering) y **Diseño Centrado en el Usuario** (UCD, User Centered Deisgn)
       * **4 grandes categorías**: Métodos de indagación, de prototipado y categorización, de inspección, y de test
+
 2. **Limitaciones del enfoque 'tradicional'**
+
     * Tradicionalmente la investigación en el campo de la Interacción Persona-Ordenador ha centrado su estudio en las habilidades y procesos cognitivos del usuario, estudiando únicamente su comportamiento racional y dejando de lado su comportamiento emocional → Deshumanizacion del usuario. 
     * Comportamiento emocional del usuario: **emociones + estado de humor + sentimientos**
     * **Los aspectos emocionales juegan un papel fundamental en la interacción del usuario** porque los estados emocionales afectan a los procesos cognitivos.
@@ -23,20 +26,28 @@ date: 2020-09-22
     * El diseño de un producto puede evocar emociones de forma explícita, expresando 'afecto'; o implícita, a través de su estética.
       * En el primer caso el producto intenta emular 'estados afectivos' con la intención de modelar así los estados afectivos o emocionales del usuario 
       * Otro medio de comunicación emocional es la estética, la cual juega un papel fundamental en la satisfacción y placer de uso
+
 3. **Origen**
+
     * La Experiencia del Usuario representa un cambio emergente del propio concepto de usabilidad
     * **Objetivo: intenta resolver el problema estratégico de la utilidad del producto y el problema psicológico del placer y diversión de su uso.
     * El concepto de la Experiencia del Usuario tiene su origen en el campo del Marketing, estando muy vinculado con el concepto de Experiencia de Marca. 
+
 4. **Definición** 
+
     * Como la experiencia que obtiene el usuario cuando interactúa con un producto en condiciones particulares
     * Las emociones y expectativas del usuario y su relación con otras personas y el contexto de uso.
     * "El conjunto de ideas, sensaciones y valoraciones del usuario resultado de la interacción con un producto”
     * Podemos definir la Experiencia del Usuario como la sensación, sentimiento, respuesta emocional, valoración y satisfacción del usuario respecto a un producto, resultado del fenómeno de interacción con el producto y la interacción con su proveedor.
+
 5. **Factores que componen la Experiencia del Usuario**
+
     * Clasifican los diferentes factores en cinco grupos diferenciados: factores propios del usuario, factores sociales, culturales, del contexto de uso y propios del producto .
     * Importancia condicionante de las expectativas del usuario y las experiencias previas, y por tanto en la capacidad de influencia de la actual experiencia en sus expectativas y futuras experiencias.
     * La Experiencia del Usuario es base a siete facetas o propiedades que debe cumplir un sitio web: Útil, Usable,Deseable,Encontrable, Accesible, Creíble y Valioso. 
+
 6. **Práctica de la Experiencia del Usuario**
+
     * Una de las aportaciones de la Experiencia del Usuario es su función de concepto 'paraguas' bajo el que integrar las diferentes disciplinas y roles profesionales implicados en el diseño de productos interactivos
     * Esto caracteriza el "Diseño de Experiencias de Usuario" como un enfoque fundamentalmente interdisciplinario
     * Otra de las aportaciones de la Experiencia del Usuario es su especial énfasis en los aspectos emocionales en la interacción
