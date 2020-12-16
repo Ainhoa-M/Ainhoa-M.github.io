@@ -1,3 +1,3 @@
 
 
-Soy Ainhoa Manchado y este es mi portafolio personal. 
+¡Hola! Soy Ainhoa Manchado y este es mi portafolio personal. 

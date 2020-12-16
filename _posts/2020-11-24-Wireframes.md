@@ -6,9 +6,11 @@ date: 2020-11-24
 ## Puntos importantes 
 
 Los *wireframes* parecen la página web. Son la forma visual y gráfica para representar la web y poder ver cómo quedaría
+
 * Puntos negativos: No se plasma la interactividad de los usuarios
-Hoy en día los wireframes son como plantillas
-Antes de ponerse a crear el wireframe hay que tener toda la información bien ordenada y etiquetada. Tener claro qué queremos que aparezca en nuestra página web (tener el mapa del sitio bien organizada)
+
+Hoy en día los wireframes son como plantillas.
+Antes de ponerse a crear el *wireframe* hay que tener toda la información bien ordenada y etiquetada. Tener claro qué queremos que aparezca en nuestra página web (tener el mapa del sitio bien organizado).
 Tener definido cuál es el objetivo de la página web y lo que quieres conseguir. 
 
 ## 3 capas 
@@ -20,25 +22,25 @@ Es importante etiquetar cada rectángulo para saber a qué hacen referencia
 que los cuadros tengan texto, un relleno para así tener una visión más clara de cómo sería. Es decir incorporar un texto de relleno para visualizar más claramente cómo sería el producto final y detectar así errores de configuración.
 Esto le da tambien al equipo una visión clara de cómo es la web
 3. Más allá de la configuración
-Proporciones que es lo que le gusta a la visión del ser humano. como colocar las cosas. 
-ver cómo comunicar las cosas, los colores, la tipografía, las áreas de la página web
+Proporciones. Qué es lo que le gusta a la visión del ser humano. Cómo colocar las cosas. 
+Ver cómo comunicar a través de los elementos: los colores, la tipografía, las áreas de la página web...
 
 ## Level Up
 
-Crear un wireframe significa diseñar piezas individuales y diseñar la página de la web para los componentes que irán en él. 
+Crear un *wireframe* significa diseñar piezas individuales y diseñar la página de la web para los componentes que irán en él. 
 
 Selecciona un estilo, un modelo de titular, subtítulo, algo simple.  es consistente con elementos. 
 
-## Presentar los wireframes
+## Presentar los *wireframes*
 
 Discute la experiencia de usuario. Mira bien si la forma que le has dado a la web cumple con el objetivo que has marcado. mira si esta aproximación sigue los principios de diseño que has marcado.
 Marca todos los escenarios posibles. genera wireframes adicionales. 
 
-## Cómo aplicar el wireframe
+## Cómo aplicar el *wireframe*
 
-Los wireframes no pueden sostenerse por sí solas, y tampoco pueden todos los detalles, comportamientos y funcionamiento de la interfaz,  Utiliza markers.
-Describir brevemente el propósito y objetivo del wireframe ayuda a establecer el contexto.
+Los wireframes no pueden sostenerse por sí solas, y tampoco pueden todos los detalles, comportamientos y funcionamiento de la interfaz. Utiliza markers.
+Describir brevemente el propósito y objetivo del *wireframe* ayuda a establecer el contexto.
 Marca todo los escenarios posibles,
 
-Describe como la interfaz cambia en respuesta de las acciones del usuario. Los links, la posición de los elementos...
+Describe cómo la interfaz cambia en respuesta a las acciones del usuario. Los links, la posición de los elementos...
 
