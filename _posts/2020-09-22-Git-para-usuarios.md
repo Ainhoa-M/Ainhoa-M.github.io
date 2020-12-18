@@ -20,8 +20,8 @@ Debes pedir explícitamente a Git que quieres traer los cambios desde la nube (*
 
 Cada *commit* hace una pequeña marca en una línea temporal. Git lleva un registro de CADA UNA de estas pequeñas marcas.
 
-El segundo paso 6 (volviendo a hacer pull desde la nube) en tu flujo de trabajo es cuando es más probable que tengas que “combinar (o *merge*) conflictos”
+El segundo paso 6 (volviendo a hacer *pull* desde la nube) en tu flujo de trabajo es cuando es más probable que tengas que “combinar (o *merge*) conflictos”
 
-Los conflictos resuelvelos, guárdalo (haz commit) y haz *push*. Pero asegúrate de hacer otro *pull* antes
+Los conflictos resuelvelos, guárdalo (haz *commit*) y haz *push*. Pero asegúrate de hacer otro *pull* antes
 
 Cada vez que guardas (o haces *commit*, más bien) de algunos cambios, Git te pide un “mensaje de *commit*”. Esto son un par de frases que describen los cambios que hiciste: un breve resumen para que alguien pudiera revisar la lista de cambios en este documento, sin tener que leerlo entero.
